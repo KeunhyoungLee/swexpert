@@ -2,6 +2,12 @@
 #include <vector>
 #include <string>
 
+/*
+카드를 반반 나누어 입력받는다.
+카드 갯수가 홀수 일 때와 짝수 일 때를 고려하여
+
+나누어 받은 카드를 하나씩 합치면 끝
+*/
 using namespace std;
 int main()
 {
